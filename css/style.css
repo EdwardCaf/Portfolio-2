@@ -160,6 +160,10 @@ a:visited {
     font-size: 1.4em;
   }
 
+  .banner {
+    height: 80vh;
+  }
+
   .banner .content {
     margin-top: 22vh;
   }
