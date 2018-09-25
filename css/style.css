@@ -168,8 +168,14 @@ a:visited {
     margin-top: 22vh;
   }
 
+  .banner .navbar {
+    font-size: 0.7em;
+    max-width: 80%;
+  }
+
   .about .info {
     grid-template-columns: 1fr;
+    margin: 1em;
   }
 
   .inner-box {
@@ -181,6 +187,6 @@ a:visited {
   }
 
   .round {
-    width: 40%;
+    width: 60%;
   }
 }
